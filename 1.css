@@ -1,0 +1,30 @@
+td{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+table{
+     border: 1px solid;
+    border-collapse: collapse;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+.fl{
+    background-color: yellow;
+}
+.fr{
+   background-color: blueviolet;
+}
+.fd{
+background-color: aquamarine;
+}
+h3{
+background-color: aqua;
+}
+.ll{
+    writing-mode: vertical-rl ;
+    transform: rotate(180deg);
+}
